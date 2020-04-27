@@ -45,7 +45,7 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [YouTube Channel](https://www.youtube.com/channel/UCpeX4D-ArTrsqvhLapAHprQ)
     * [GitHub](https://github.com/rylev), [Twitter](https://twitter.com/ryan_levick)
     * Teaching, Web Assembly
-* [Yoshua Wuyts]
+* Yoshua Wuyts
     * [YouTube Channel](https://www.youtube.com/yoshuawuyts), [Twitch Channel](https://www.twitch.tv/yoshuawuyts)
     * [GitHub](https://github.com/yoshuawuyts/), [Twitter](https://twitter.com/yoshuawuyts), [Blog](https://blog.yoshuawuyts.com/)
     * Async, Web, API Design
