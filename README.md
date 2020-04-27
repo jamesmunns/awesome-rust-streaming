@@ -4,19 +4,19 @@
 
 This is a community curated list of livestreams about the programming language Rust.
 
-**Don't see a stream that you like?** Feel free to add it!
+**Don't see a stream that you like?** Feel free to [add it to the list](https://github.com/jamesmunns/awesome-rust-streaming/edit/master/README.md)!
 
-At some point, I'll organize this list when it is long enough. For now, please try and keep the list in alphabetical order, based the stream or person name.
+At some point, I'll organize this list into categories when it is long enough. For now, please try and keep the list in alphabetical order, based on the stream or person's name.
 
-If you have suggestions for where this list should live (other than @jamesmunns' personal GH), [add it to the list](https://github.com/jamesmunns/awesome-rust-streaming/edit/master/README.md)!
+If you have suggestions for where this list should live (other than @jamesmunns' personal GH), [let me know](https://github.com/jamesmunns/awesome-rust-streaming/issues/new)!
 
 ## Streams
 
 <!-- Template:
 
 * Stream Name
-    * Link to stream
-    * GitHub/Twitter/Other Handles
+    * Link to stream(s)
+    * GitHub/Twitter/Blog/Other Links
     * Usual topics/stream description
 
 -->
