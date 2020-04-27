@@ -49,3 +49,7 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [YouTube Channel](https://www.youtube.com/yoshuawuyts), [Twitch Channel](https://www.twitch.tv/yoshuawuyts)
     * [GitHub](https://github.com/yoshuawuyts/), [Twitter](https://twitter.com/yoshuawuyts), [Blog](https://blog.yoshuawuyts.com/)
     * Async, Web, API Design
+* Brandon Falk
+    * [YouTube Channel](https://www.youtube.com/user/gamozolabs), [Twitch Channel](https://www.twitch.tv/gamozo)
+    * [GitHub](https://github.com/gamozolabs), [Twitter](https://twitter.com/gamozolabs), [Blog](https://gamozolabs.github.io/)
+    * OSdev, Hypervisors, Fuzzers
