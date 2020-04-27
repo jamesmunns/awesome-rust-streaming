@@ -8,7 +8,7 @@ This is a community curated list of livestreams about the programming language R
 
 At some point, I'll organize this list when it is long enough. For now, please try and keep the list in alphabetical order, based the stream or person name.
 
-If you have suggestions for where this list should live (other than @jamesmunns' personal GH), feel free to open an issue!
+If you have suggestions for where this list should live (other than @jamesmunns' personal GH), [add it to the list](https://github.com/jamesmunns/awesome-rust-streaming/edit/master/README.md)!
 
 ## Streams
 
