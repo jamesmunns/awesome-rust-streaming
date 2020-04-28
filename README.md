@@ -21,6 +21,10 @@ If you have suggestions for where this list should live (other than @jamesmunns'
 
 -->
 
+* Badtuple
+    * [Twitch Channel](https://www.twitch.tv/badtuple/)
+    * [Github](https://github.com/badtuple), [Mastodon](https://mastodon.social/@badtuple)
+    * Database Implementation, Procedural Generation
 * Benjamin Halsted (halzy)
     * [Twitch Channel](https://www.twitch.tv/mrhalzy/)
     * [Github](https://github.com/halzy)
