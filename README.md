@@ -57,4 +57,8 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [YouTube Channel](https://www.youtube.com/channel/UC7n_g2xDySrmKRaf41rSwlg), [Twitch Channel](https://www.twitch.tv/kunosstefano)
     * [Twitter](https://twitter.com/KunosStefano)
     * Gamedev
+* Benjamin Halsted (halzy)
+    * [Twitch Channel](https://www.twitch.tv/mrhalzy/)
+    * [Github](https://github.com/halzy)
+    * Gamedev
 
