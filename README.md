@@ -33,6 +33,10 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [YouTube Channel](https://www.youtube.com/user/gamozolabs), [Twitch Channel](https://www.twitch.tv/gamozo)
     * [GitHub](https://github.com/gamozolabs), [Twitter](https://twitter.com/gamozolabs), [Blog](https://gamozolabs.github.io/)
     * OSdev, Hypervisors, Fuzzers
+* Brian Myers
+    * [YouTube Channel](https://www.youtube.com/channel/UCXcHzKR8zfsq8hPjnSQ6DPw)
+    * [GitHub](https://github.com/bcmyers), [Twitter](https://twitter.com/bcmyers), [Blog](https://www.bcmyers.com)
+    * Teaching
 * David Pedersen
     * [YouTube Channel](https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ), [Twitch Channel](https://www.twitch.tv/davidpdrsn)
     * [GitHub](https://github.com/davidpdrsn), [Twitter](https://twitter.com/davidpdrsn)
