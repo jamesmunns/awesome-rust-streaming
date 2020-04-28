@@ -53,3 +53,8 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [YouTube Channel](https://www.youtube.com/user/gamozolabs), [Twitch Channel](https://www.twitch.tv/gamozo)
     * [GitHub](https://github.com/gamozolabs), [Twitter](https://twitter.com/gamozolabs), [Blog](https://gamozolabs.github.io/)
     * OSdev, Hypervisors, Fuzzers
+* Stefano Casillo - Jaxx Vane Studio Live
+    * [YouTube Channel](https://www.youtube.com/channel/UC7n_g2xDySrmKRaf41rSwlg), [Twitch Channel](https://www.twitch.tv/kunosstefano)
+    * [Twitter](https://twitter.com/KunosStefano)
+    * Gamedev
+
