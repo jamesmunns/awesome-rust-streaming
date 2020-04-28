@@ -21,6 +21,14 @@ If you have suggestions for where this list should live (other than @jamesmunns'
 
 -->
 
+* Benjamin Halsted (halzy)
+    * [Twitch Channel](https://www.twitch.tv/mrhalzy/)
+    * [Github](https://github.com/halzy)
+    * Gamedev
+* Brandon Falk
+    * [YouTube Channel](https://www.youtube.com/user/gamozolabs), [Twitch Channel](https://www.twitch.tv/gamozo)
+    * [GitHub](https://github.com/gamozolabs), [Twitter](https://twitter.com/gamozolabs), [Blog](https://gamozolabs.github.io/)
+    * OSdev, Hypervisors, Fuzzers
 * David Pedersen
     * [YouTube Channel](https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ), [Twitch Channel](https://www.twitch.tv/davidpdrsn)
     * [GitHub](https://github.com/davidpdrsn), [Twitter](https://twitter.com/davidpdrsn)
@@ -45,20 +53,11 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [YouTube Channel](https://www.youtube.com/channel/UCpeX4D-ArTrsqvhLapAHprQ), [Twitch Channel](twitch.tv/ryanlevick)
     * [GitHub](https://github.com/rylev), [Twitter](https://twitter.com/ryan_levick)
     * Teaching, Web Assembly
-* Yoshua Wuyts
-    * [YouTube Channel](https://www.youtube.com/yoshuawuyts), [Twitch Channel](https://www.twitch.tv/yoshuawuyts)
-    * [GitHub](https://github.com/yoshuawuyts/), [Twitter](https://twitter.com/yoshuawuyts), [Blog](https://blog.yoshuawuyts.com/)
-    * Async, Web, API Design
-* Brandon Falk
-    * [YouTube Channel](https://www.youtube.com/user/gamozolabs), [Twitch Channel](https://www.twitch.tv/gamozo)
-    * [GitHub](https://github.com/gamozolabs), [Twitter](https://twitter.com/gamozolabs), [Blog](https://gamozolabs.github.io/)
-    * OSdev, Hypervisors, Fuzzers
 * Stefano Casillo - Jaxx Vane Studio Live
     * [YouTube Channel](https://www.youtube.com/channel/UC7n_g2xDySrmKRaf41rSwlg), [Twitch Channel](https://www.twitch.tv/kunosstefano)
     * [Twitter](https://twitter.com/KunosStefano)
     * Gamedev
-* Benjamin Halsted (halzy)
-    * [Twitch Channel](https://www.twitch.tv/mrhalzy/)
-    * [Github](https://github.com/halzy)
-    * Gamedev
-
+* Yoshua Wuyts
+    * [YouTube Channel](https://www.youtube.com/yoshuawuyts), [Twitch Channel](https://www.twitch.tv/yoshuawuyts)
+    * [GitHub](https://github.com/yoshuawuyts/), [Twitter](https://twitter.com/yoshuawuyts), [Blog](https://blog.yoshuawuyts.com/)
+    * Async, Web, API Design
