@@ -37,6 +37,10 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [YouTube Channel](https://www.youtube.com/channel/UCXcHzKR8zfsq8hPjnSQ6DPw)
     * [GitHub](https://github.com/bcmyers), [Twitter](https://twitter.com/bcmyers), [Blog](https://www.bcmyers.com)
     * Teaching
+* Bruno Rocha - (CodeShow)
+    * [Youtube Channel](https://Youtube.com/CodeShowBR), [Twitch Channel](https://twitch.tv/codeshow)
+    * [Github](https://github.com/rochacbruno), [Twitter](https://twitter.com/rochacbruno)
+    * Learning, Web, Testing, Python FFI
 * David Pedersen
     * [YouTube Channel](https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ), [Twitch Channel](https://www.twitch.tv/davidpdrsn)
     * [GitHub](https://github.com/davidpdrsn), [Twitter](https://twitter.com/davidpdrsn)
