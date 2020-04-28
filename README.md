@@ -50,7 +50,7 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [GitHub](https://github.com/Jonhoo), [Twitter](https://twitter.com/jonhoo), [Website](https://thesquareplanet.com/)
     * Teaching, Databases, Concurrency
 * Ryan Levick
-    * [YouTube Channel](https://www.youtube.com/channel/UCpeX4D-ArTrsqvhLapAHprQ), [Twitch Channel](twitch.tv/ryanlevick)
+    * [YouTube Channel](https://www.youtube.com/channel/UCpeX4D-ArTrsqvhLapAHprQ), [Twitch Channel](https://www.twitch.tv/ryanlevick)
     * [GitHub](https://github.com/rylev), [Twitter](https://twitter.com/ryan_levick)
     * Teaching, Web Assembly
 * Stefano Casillo - Jaxx Vane Studio Live
