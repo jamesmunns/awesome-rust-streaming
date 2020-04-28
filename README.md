@@ -61,3 +61,7 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [YouTube Channel](https://www.youtube.com/yoshuawuyts), [Twitch Channel](https://www.twitch.tv/yoshuawuyts)
     * [GitHub](https://github.com/yoshuawuyts/), [Twitter](https://twitter.com/yoshuawuyts), [Blog](https://blog.yoshuawuyts.com/)
     * Async, Web, API Design
+* Darrien Glasser
+    * [YouTube Channel](https://www.youtube.com/channel/UCUzRdg4JE-0dZyG8olHrSnw)
+    * [GitLab](https://gitlab.com/DarrienG)
+    * Terminal games
