@@ -69,6 +69,10 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [YouTube Channel](https://www.youtube.com/channel/UC7n_g2xDySrmKRaf41rSwlg), [Twitch Channel](https://www.twitch.tv/kunosstefano)
     * [Twitter](https://twitter.com/KunosStefano)
     * Gamedev
+* Tom Leys - The Recall Singularity
+    * [YouTube Channel](https://www.youtube.com/channel/UCzgUlowiaKXJiNIAi0c9Qsg), [Twitch Channel](https://www.twitch.tv/recallsingularity/)
+    * [Twitter](https://twitter.com/RecallSingular1) [Discord](https://discord.gg/tRCuSNH)
+    * Space Factory indie Game development in Godot + Rust. Join the discord for Q&A on your own projects. 
 * Yoshua Wuyts
     * [YouTube Channel](https://www.youtube.com/yoshuawuyts), [Twitch Channel](https://www.twitch.tv/yoshuawuyts)
     * [GitHub](https://github.com/yoshuawuyts/), [Twitter](https://twitter.com/yoshuawuyts), [Blog](https://blog.yoshuawuyts.com/)
