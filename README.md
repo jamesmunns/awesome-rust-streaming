@@ -65,6 +65,10 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [YouTube Channel](https://www.youtube.com/c/JonGjengset/), [Twitch Channel](https://www.twitch.tv/jonhoo)
     * [GitHub](https://github.com/Jonhoo), [Twitter](https://twitter.com/jonhoo), [Website](https://thesquareplanet.com/)
     * Teaching, Databases, Concurrency
+* Mike Charlton
+    * [Twitch Channel](https://www.twitch.tv/urouroniwa)
+    * [Source Hut](https://git.sr.ht/~mikekchar)
+    * Beginner/intermediate Rust, Gamedev, Cheese
 * Ryan Levick
     * [YouTube Channel](https://www.youtube.com/channel/UCpeX4D-ArTrsqvhLapAHprQ), [Twitch Channel](https://www.twitch.tv/ryanlevick)
     * [GitHub](https://github.com/rylev), [Twitter](https://twitter.com/ryan_levick)
