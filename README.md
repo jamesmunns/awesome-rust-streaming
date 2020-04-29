@@ -21,6 +21,10 @@ If you have suggestions for where this list should live (other than @jamesmunns'
 
 -->
 
+* Badtuple
+    * [Twitch Channel](https://www.twitch.tv/badtuple/)
+    * [Github](https://github.com/badtuple), [Mastodon](https://mastodon.social/@badtuple)
+    * Database Implementation, Procedural Generation
 * Benjamin Halsted (halzy)
     * [Twitch Channel](https://www.twitch.tv/mrhalzy/)
     * [Github](https://github.com/halzy)
@@ -29,10 +33,18 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [YouTube Channel](https://www.youtube.com/user/gamozolabs), [Twitch Channel](https://www.twitch.tv/gamozo)
     * [GitHub](https://github.com/gamozolabs), [Twitter](https://twitter.com/gamozolabs), [Blog](https://gamozolabs.github.io/)
     * OSdev, Hypervisors, Fuzzers
+* Brian Myers
+    * [YouTube Channel](https://www.youtube.com/channel/UCXcHzKR8zfsq8hPjnSQ6DPw)
+    * [GitHub](https://github.com/bcmyers), [Twitter](https://twitter.com/bcmyers), [Blog](https://www.bcmyers.com)
+    * Teaching
+* Bruno Rocha - (CodeShow)
+    * [Youtube Channel](https://Youtube.com/CodeShowBR), [Twitch Channel](https://twitch.tv/codeshow)
+    * [Github](https://github.com/rochacbruno), [Twitter](https://twitter.com/rochacbruno)
+    * Learning, Web, Testing, Python FFI
 * Darrien Glasser
     * [YouTube Channel](https://www.youtube.com/channel/UCUzRdg4JE-0dZyG8olHrSnw)
     * [GitLab](https://gitlab.com/DarrienG)
-    * Terminal games
+    * Terminal games, CLI tools
 * David Pedersen
     * [YouTube Channel](https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ), [Twitch Channel](https://www.twitch.tv/davidpdrsn)
     * [GitHub](https://github.com/davidpdrsn), [Twitter](https://twitter.com/davidpdrsn)
@@ -61,6 +73,14 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [YouTube Channel](https://www.youtube.com/channel/UC7n_g2xDySrmKRaf41rSwlg), [Twitch Channel](https://www.twitch.tv/kunosstefano)
     * [Twitter](https://twitter.com/KunosStefano)
     * Gamedev
+* Tim McNamara - @timClicks
+    * [YouTube Channel](https://www.youtube.com/channel/UClny6qj9Mv7uFo9XGUGYQBA), [Twitch Channel](https://www.twitch.tv/timclicks/)
+    * [Github](https://github.com/timClicks), [Twitter](https://twitter.com/timClicks), [Website](https://tim.mcnamara.nz/)
+    * Beginner/intermediate Rust, Rust/Python interop, data science
+* Tom Leys - The Recall Singularity
+    * [YouTube Channel](https://www.youtube.com/channel/UCzgUlowiaKXJiNIAi0c9Qsg), [Twitch Channel](https://www.twitch.tv/recallsingularity/)
+    * [Twitter](https://twitter.com/RecallSingular1) [Discord](https://discord.gg/tRCuSNH)
+    * Space Factory indie Game development in Godot + Rust. Join the discord for Q&A on your own projects. 
 * Yoshua Wuyts
     * [YouTube Channel](https://www.youtube.com/yoshuawuyts), [Twitch Channel](https://www.twitch.tv/yoshuawuyts)
     * [GitHub](https://github.com/yoshuawuyts/), [Twitter](https://twitter.com/yoshuawuyts), [Blog](https://blog.yoshuawuyts.com/)
