@@ -27,7 +27,7 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * Database Implementation, Procedural Generation
 * Benjamin Halsted (halzy)
     * [Twitch Channel](https://www.twitch.tv/mrhalzy/)
-    * [Github](https://github.com/halzy)
+    * [Github](https://github.com/halzy), [SourceHut](https://git.sr.ht/~halzy)
     * Gamedev
 * Brandon Falk
     * [YouTube Channel](https://www.youtube.com/user/gamozolabs), [Twitch Channel](https://www.twitch.tv/gamozo)
