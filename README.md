@@ -41,6 +41,10 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [Youtube Channel](https://Youtube.com/CodeShowBR), [Twitch Channel](https://twitch.tv/codeshow)
     * [Github](https://github.com/rochacbruno), [Twitter](https://twitter.com/rochacbruno)
     * Learning, Web, Testing, Python FFI
+* Darrien Glasser
+    * [YouTube Channel](https://www.youtube.com/channel/UCUzRdg4JE-0dZyG8olHrSnw)
+    * [GitLab](https://gitlab.com/DarrienG)
+    * Terminal games, CLI tools
 * David Pedersen
     * [YouTube Channel](https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ), [Twitch Channel](https://www.twitch.tv/davidpdrsn)
     * [GitHub](https://github.com/davidpdrsn), [Twitter](https://twitter.com/davidpdrsn)
