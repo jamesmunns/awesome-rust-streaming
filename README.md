@@ -69,6 +69,10 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [YouTube Channel](https://www.youtube.com/channel/UC7n_g2xDySrmKRaf41rSwlg), [Twitch Channel](https://www.twitch.tv/kunosstefano)
     * [Twitter](https://twitter.com/KunosStefano)
     * Gamedev
+* Tim McNamara - @timClicks
+    * [YouTube Channel](https://www.youtube.com/channel/UClny6qj9Mv7uFo9XGUGYQBA), [Twitch Channel](https://www.twitch.tv/timclicks/)
+    * [Github](https://github.com/timClicks), [Twitter](https://twitter.com/timClicks), [Website](https://tim.mcnamara.nz/)
+    * Beginner/intermediate Rust, Rust/Python interop, data science
 * Tom Leys - The Recall Singularity
     * [YouTube Channel](https://www.youtube.com/channel/UCzgUlowiaKXJiNIAi0c9Qsg), [Twitch Channel](https://www.twitch.tv/recallsingularity/)
     * [Twitter](https://twitter.com/RecallSingular1) [Discord](https://discord.gg/tRCuSNH)
