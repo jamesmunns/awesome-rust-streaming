@@ -73,14 +73,14 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [Twitch Channel](https://www.twitch.tv/museun)
     * [Github](https://github.com/museun)
     * Random projects in Rust
-* Ryan Levick
-    * [YouTube Channel](https://www.youtube.com/channel/UCpeX4D-ArTrsqvhLapAHprQ), [Twitch Channel](https://www.twitch.tv/ryanlevick)
-    * [GitHub](https://github.com/rylev), [Twitter](https://twitter.com/ryan_levick)
-    * Teaching, Web Assembly
 * Pascal Seitz
     * [Twitch Channel](https://www.twitch.tv/Paskarlo)
     * [GitHub](https://github.com/pseitz)
     * Performance, Search Engine, Random Projects
+* Ryan Levick
+    * [YouTube Channel](https://www.youtube.com/channel/UCpeX4D-ArTrsqvhLapAHprQ), [Twitch Channel](https://www.twitch.tv/ryanlevick)
+    * [GitHub](https://github.com/rylev), [Twitter](https://twitter.com/ryan_levick)
+    * Teaching, Web Assembly
 * Stefano Casillo - Jaxx Vane Studio Live
     * [YouTube Channel](https://www.youtube.com/channel/UC7n_g2xDySrmKRaf41rSwlg), [Twitch Channel](https://www.twitch.tv/kunosstefano)
     * [Twitter](https://twitter.com/KunosStefano)
