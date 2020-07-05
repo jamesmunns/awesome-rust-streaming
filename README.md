@@ -65,6 +65,10 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [YouTube Channel](https://www.youtube.com/c/JonGjengset/), [Twitch Channel](https://www.twitch.tv/jonhoo)
     * [GitHub](https://github.com/Jonhoo), [Twitter](https://twitter.com/jonhoo), [Website](https://thesquareplanet.com/)
     * Teaching, Databases, Concurrency
+* Jonathan Johnson - ectonDev
+    * [Twitch Channel](https://twitch.tv/ectonDev)
+    * [GitHub](https://github.com/ecton), [Twitter](https://twitter.com/ectonDev)
+    * Web and Game Development
 * Mike Charlton
     * [Twitch Channel](https://www.twitch.tv/urouroniwa)
     * [Source Hut](https://git.sr.ht/~mikekchar)
