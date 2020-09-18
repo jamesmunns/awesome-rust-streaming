@@ -93,6 +93,10 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [YouTube Channel](https://www.youtube.com/channel/UClny6qj9Mv7uFo9XGUGYQBA), [Twitch Channel](https://www.twitch.tv/timclicks/)
     * [Github](https://github.com/timClicks), [Twitter](https://twitter.com/timClicks), [Website](https://tim.mcnamara.nz/)
     * Beginner/intermediate Rust, Rust/Python interop, data science
+* T.J. Telan
+    * [Twitch Channel](https://www.twitch.tv/tjtelan), [YouTube Channel](https://www.youtube.com/channel/UCiwV2NFMF26A5nfakQbuZ-g)
+    * [Github](https://github.com/tjtelan), [Twitter](https://twitter.com/ThatTJTelan), [Blog](https://tjtelan.com/)
+    * CLI tools, DevOps, Embedded, Web Assembly
 * Tom Leys - The Recall Singularity
     * [YouTube Channel](https://www.youtube.com/channel/UCzgUlowiaKXJiNIAi0c9Qsg), [Twitch Channel](https://www.twitch.tv/recallsingularity/)
     * [Twitter](https://twitter.com/RecallSingular1) [Discord](https://discord.gg/tRCuSNH)
