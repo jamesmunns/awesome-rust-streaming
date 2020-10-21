@@ -100,6 +100,9 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [Twitch Channel](https://www.twitch.tv/tjtelan), [YouTube Channel](https://www.youtube.com/channel/UCiwV2NFMF26A5nfakQbuZ-g)
     * [Github](https://github.com/tjtelan), [Twitter](https://twitter.com/ThatTJTelan), [Blog](https://tjtelan.com/)
     * CLI tools, DevOps, Embedded, Web Assembly
+* Togglebit
+    * [Twitch Channel](https://www.twitch.tv/togglebit/)
+    * Misc Rust dev
 * Tom Leys - The Recall Singularity
     * [YouTube Channel](https://www.youtube.com/channel/UCzgUlowiaKXJiNIAi0c9Qsg), [Twitch Channel](https://www.twitch.tv/recallsingularity/)
     * [Twitter](https://twitter.com/RecallSingular1) [Discord](https://discord.gg/tRCuSNH)
