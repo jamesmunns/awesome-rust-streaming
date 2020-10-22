@@ -80,6 +80,10 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [Twitch Channel](https://www.twitch.tv/museun)
     * [Github](https://github.com/museun)
     * Random projects in Rust
+* Paytonrules
+    * [Twitch Channel](https://www.twitch.tv/paytonrules)
+    * [GitHub](https://www.github.com/paytonrules), [Twitter](https://www.twitter.com/paytonrules), [Blog](https://www.paytonrules.com)
+    * Usually godot-rust for Gamedev
 * Pascal Seitz
     * [Twitch Channel](https://www.twitch.tv/Paskarlo)
     * [GitHub](https://github.com/pseitz)
