@@ -57,6 +57,9 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [YouTube Channel](https://www.youtube.com/c/FerrousSystemsGmbH)
     * [GitHub](https://github.com/FerrousSystems), [Twitter](https://twitter.com/ferroussystems), [Website](https://ferrous-systems.com)
     * Q&A sessions, Embedded, Compiler contributions, Tooling
+* Gareth Hubball
+    * [Twitch Channel](https://www.twitch.tv/garethhubball/)
+    * Learning live, Toy projects
 * James' Office Hours
     * [YouTube Channel](https://www.youtube.com/channel/UCb48C4qqcXQpRugPbdwigZQ), [Old YouTube Channel](https://www.youtube.com/c/JamesMunns/)
     * [GitHub](https://github.com/jamesmunns), [Twitter](https://twitter.com/bitshiftmask), [Blog](https://jamesmunns.com)
