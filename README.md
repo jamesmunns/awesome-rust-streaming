@@ -72,6 +72,10 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [Twitch Channel](https://twitch.tv/ectonDev)
     * [GitHub](https://github.com/ecton), [Twitter](https://twitter.com/ectonDev)
     * Web and Game Development
+* Jonathan Turner
+    * [Twitch Channel](https://www.twitch.tv/jntrnr), [Twitter](https://twitter.com/jntrnr)
+    * [YouTube Channel](https://youtube.com/giard321)
+    * Beginner, intermediate, [Nushell](https://www.nushell.sh/), and code-with-me streams
 * Mike Charlton
     * [Twitch Channel](https://www.twitch.tv/urouroniwa)
     * [Source Hut](https://git.sr.ht/~mikekchar)
