@@ -123,7 +123,7 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [GitHub](https://github.com/yoshuawuyts/), [Twitter](https://twitter.com/yoshuawuyts), [Blog](https://blog.yoshuawuyts.com/)
     * Async, Web, API Design
 * Fasterthanlime
-    *[Youtube Channel](https://www.youtube.com/channel/UCs4fQRyl1TJvoeOdekW6lYA), [Twitch Channel](https://www.twitch.tv/fasterthanlime)
-    *[Github](https://github.com/fasterthanlime), [Blog](https://fasterthanli.me/) [Twitter](https://twitter.com/fasterthanlime)
-    *Systems, APIs, Async, Teaching
+    * [Youtube Channel](https://www.youtube.com/channel/UCs4fQRyl1TJvoeOdekW6lYA), [Twitch Channel](https://www.twitch.tv/fasterthanlime)
+    * [Github](https://github.com/fasterthanlime), [Blog](https://fasterthanli.me/) [Twitter](https://twitter.com/fasterthanlime)
+    * Systems, APIs, Async, Teaching
 
