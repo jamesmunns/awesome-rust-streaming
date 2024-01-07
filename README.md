@@ -80,9 +80,10 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [Twitch Channel](https://www.twitch.tv/urouroniwa)
     * [Source Hut](https://git.sr.ht/~mikekchar)
     * Beginner/intermediate Rust, Gamedev, Cheese
-* mightyiam
+* Shahar "Dawn" Or (mightyiam)
     * [Twitch Channel](https://www.twitch.tv/mightyiam)
-    * Studying Rust on a [regular schedule](https://www.twitch.tv/mightyiam/schedule).
+    * [GitHub](https://github.com/mightyiam)
+    * Mob programming. [Schedule](https://www.twitch.tv/mightyiam/schedule).
 * Museun
     * [Twitch Channel](https://www.twitch.tv/museun)
     * [Github](https://github.com/museun)
